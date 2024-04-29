@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there, I’m Ege 👋
 
-<!--
-**EgeKayaGithub/EgeKayaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 14 years old and i know HTML, CSS, javascript, Python. I am developing websites.
 
-Here are some ideas to get you started:
+### Socials
+- Linkedin : <img src="https://skillicons.dev/icons?i=linkedin" style="width:12px;"/> <a href="https://www.linkedin.com/in/nurayse/">nurayse</a>
+- For my web designs : <img src="https://skillicons.dev/icons?i=instagram" style="width:12px;"/> <a href="https://www.instagram.com/webdev.nuray/">webdev.nuray</a>
+- For my business designs : <img src="https://skillicons.dev/icons?i=instagram" style="width:12px;"/> <a href="https://www.instagram.com/panguweb/">panguweb</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+
+### Quick Statistics
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=cesii&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=cesii&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+    </td>
+  </tr>
+</table>
