@@ -10,8 +10,11 @@ I am 14 years old, I live in Turkey and I know HTML, CSS, Javascript, Python and
 
 ### Projects
 <a href="https://egekaya.github.io/sanalsozluk/home.html" target="blank">Sanal Sözlük</a>
+<br>
 <a href="https://egekayagithub.github.io/sifreolusturucu/" target="blank">Şifre Oluşturucu</a>
+<br>
 <a href="https://egekayagithub.github.io/sayitahminoyunu/" target="blank">Sayı Tahmin Oyunu</a>
+<br>
 <a href="https://egekayagithub.github.io/voltbulucu/" target="blank">Volt Bulucu</a>
 ### Statistics
 <table>
