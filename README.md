@@ -9,7 +9,7 @@ I am 14 years old, I live in Turkey and I know HTML, CSS, Javascript, Python and
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=python" /></a>
 
 ### Projects
-<a href="https://egekaya.github.io/sanalsozluk/home.html" target="blank">Sanal Sözlük</a>
+<a href="https://egekayagithub.io/sanalsozluk/home.html" target="blank">Sanal Sözlük</a>
 <br>
 <a href="https://egekayagithub.github.io/sifreolusturucu/" target="blank">Şifre Oluşturucu</a>
 <br>
