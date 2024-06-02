@@ -1,4 +1,4 @@
-## Hi there, I’m Ege 👋
+## Hey There, I’m Ege 👋
 
 I am 14 years old, I live in Turkey and I know HTML, CSS, Javascript, Python and I also develop websites.
 
