@@ -8,6 +8,9 @@ I am 14 years old, I live in Turkey and I know HTML, CSS, Javascript, Python and
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+
+[!Things I'm still working one](https://skillicons.dev/icons?i=redux,react,firebase,materialui,ts&theme=light)](https://skillicons.dev)
 
 ### Projects
 <a href="https://egekayagithub.github.io/sanalsozluk/home.html" target="_blank">Sanal Sözlük</a>
