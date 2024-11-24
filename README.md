@@ -23,9 +23,9 @@ I am 14 years old, I live in Turkey and I know HTML, CSS, Javascript, Python and
 <br>
 <a href="https://egekayagithub.github.io/sifreolusturucu/" target="_blank">Şifre Oluşturucu</a>
 <br>
-<a href="(https://egekayagithub.github.io/images-app/)" target="_blank">Resim Sitesi Projesi</a>
+<a href="https://egekayagithub.github.io/images-app/" target="_blank">Resim Sitesi Projesi</a>
 <br>
-<a href="(https://egekayagithub.github.io/weatherapp/)" target="_blank">Weather App</a>
+<a href="https://egekayagithub.github.io/weatherapp/" target="_blank">Weather App</a>
 ### Statistics
 <table>
   <tr>
