@@ -16,6 +16,7 @@ I am 14 years old, I live in Turkey and I know HTML, CSS, Javascript, Python and
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=redux" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=materialui" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 
 
 ### Projects
