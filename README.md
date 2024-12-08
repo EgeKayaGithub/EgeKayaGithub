@@ -1,6 +1,6 @@
-## Hey There, I’m Ege 👋
+## Hey There, I’m Talha KILIÇ 👋
 
-I am 14 years old, I live in Turkey and I know HTML, CSS, Javascript, Python and I also develop websites.
+I am 14 years old, I live in Turkey and I know many programming and markup laungage and I also develop websites.
 
 ### Skills
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
